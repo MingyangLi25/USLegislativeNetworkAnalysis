@@ -1,0 +1,320 @@
+source,target,weight
+Agriculture Committee,Ways and Means Committee,43
+Education and the Workforce Committee,Energy and Commerce Committee,139
+Education and the Workforce Committee,Judiciary Committee,99
+Education and the Workforce Committee,Oversight and Accountability Committee,56
+Education and the Workforce Committee,Transportation and Infrastructure Committee,47
+Energy and Commerce Committee,Judiciary Committee,168
+Energy and Commerce Committee,Oversight and Accountability Committee,75
+Energy and Commerce Committee,Transportation and Infrastructure Committee,123
+Judiciary Committee,Oversight and Accountability Committee,86
+Judiciary Committee,Transportation and Infrastructure Committee,45
+Oversight and Accountability Committee,Transportation and Infrastructure Committee,42
+Budget Committee,Rules Committee,28
+Committee on House Administration,Transportation and Infrastructure Committee,9
+Foreign Affairs Committee,Oversight and Accountability Committee,54
+Foreign Affairs Committee,Foreign Relations Committee,51
+Education and the Workforce Committee,Natural Resources Committee,42
+Committee on House Administration,Oversight and Accountability Committee,53
+Foreign Affairs Committee,Ways and Means Committee,82
+Financial Services Committee,Foreign Affairs Committee,87
+Financial Services Committee,Judiciary Committee,90
+Financial Services Committee,Ways and Means Committee,79
+Foreign Affairs Committee,Judiciary Committee,134
+Judiciary Committee,Ways and Means Committee,110
+Energy and Commerce Committee,Rules Committee,9
+,Armed Services Committee,22
+,Veterans,136
+Armed Services Committee,Veterans,29
+Committee on House Administration,Rules and Administration Committee,4
+Appropriations Committee,Committee on House Administration,1
+Agriculture Committee,Education and the Workforce Committee,47
+Agriculture Committee,Energy and Commerce Committee,76
+Education and the Workforce Committee,Ways and Means Committee,120
+Energy and Commerce Committee,Ways and Means Committee,324
+Foreign Affairs Committee,Natural Resources Committee,36
+Foreign Affairs Committee,Rules Committee,18
+Appropriations Committee,Budget Committee,21
+Financial Services Committee,Oversight and Accountability Committee,45
+Agriculture Committee,Natural Resources Committee,112
+Agriculture Committee,Oversight and Accountability Committee,22
+Agriculture Committee,"Science, Space, and Technology Committee",21
+Agriculture Committee,Transportation and Infrastructure Committee,47
+Education and the Workforce Committee,"Science, Space, and Technology Committee",25
+Energy and Commerce Committee,Natural Resources Committee,111
+Energy and Commerce Committee,"Science, Space, and Technology Committee",59
+Natural Resources Committee,Oversight and Accountability Committee,26
+Natural Resources Committee,"Science, Space, and Technology Committee",41
+Natural Resources Committee,Transportation and Infrastructure Committee,68
+Natural Resources Committee,Ways and Means Committee,38
+Oversight and Accountability Committee,"Science, Space, and Technology Committee",18
+Oversight and Accountability Committee,Ways and Means Committee,74
+"Science, Space, and Technology Committee",Transportation and Infrastructure Committee,30
+"Science, Space, and Technology Committee",Ways and Means Committee,26
+Transportation and Infrastructure Committee,Ways and Means Committee,58
+Budget Committee,Natural Resources Committee,15
+Small Business Committee,Small Business and Entrepreneurship Committee,22
+"Commerce, Science, and Transportation Committee",Homeland Security Committee,7
+Indian Affairs Committee,Natural Resources Committee,13
+Environment and Public Works Committee,Transportation and Infrastructure Committee,12
+Homeland Security and Governmental Affairs Committee,Oversight and Accountability Committee,70
+Agriculture Committee,Financial Services Committee,43
+Armed Services Committee,Education and the Workforce Committee,29
+Armed Services Committee,Energy and Commerce Committee,44
+Armed Services Committee,Financial Services Committee,24
+Armed Services Committee,Foreign Affairs Committee,68
+Armed Services Committee,Intelligence (Permanent Select) Committee,24
+Armed Services Committee,Natural Resources Committee,26
+Armed Services Committee,Oversight and Accountability Committee,49
+Armed Services Committee,"Science, Space, and Technology Committee",19
+Armed Services Committee,Transportation and Infrastructure Committee,35
+Armed Services Committee,Ways and Means Committee,39
+Education and the Workforce Committee,Financial Services Committee,59
+Education and the Workforce Committee,Foreign Affairs Committee,26
+Education and the Workforce Committee,Intelligence (Permanent Select) Committee,9
+Energy and Commerce Committee,Financial Services Committee,76
+Energy and Commerce Committee,Foreign Affairs Committee,81
+Energy and Commerce Committee,Intelligence (Permanent Select) Committee,13
+Financial Services Committee,Intelligence (Permanent Select) Committee,17
+Financial Services Committee,Natural Resources Committee,32
+Financial Services Committee,"Science, Space, and Technology Committee",14
+Financial Services Committee,Transportation and Infrastructure Committee,68
+Foreign Affairs Committee,Intelligence (Permanent Select) Committee,30
+Foreign Affairs Committee,"Science, Space, and Technology Committee",13
+Foreign Affairs Committee,Transportation and Infrastructure Committee,36
+Intelligence (Permanent Select) Committee,Natural Resources Committee,8
+Intelligence (Permanent Select) Committee,Oversight and Accountability Committee,17
+Intelligence (Permanent Select) Committee,"Science, Space, and Technology Committee",7
+Intelligence (Permanent Select) Committee,Transportation and Infrastructure Committee,9
+Intelligence (Permanent Select) Committee,Ways and Means Committee,14
+,Affairs Committee,65
+Affairs Committee,Veterans,65
+Committee on House Administration,Financial Services Committee,43
+"Commerce, Science, and Transportation Committee",Energy and Commerce Committee,28
+Budget Committee,Ways and Means Committee,24
+"Commerce, Science, and Transportation Committee",Transportation and Infrastructure Committee,7
+Energy and Commerce Committee,"Health, Education, Labor, and Pensions Committee",38
+Budget Committee,Oversight and Accountability Committee,25
+Oversight and Accountability Committee,Rules Committee,29
+Appropriations Committee,Education and the Workforce Committee,2
+Appropriations Committee,Ways and Means Committee,6
+Agriculture Committee,Armed Services Committee,17
+Agriculture Committee,Foreign Affairs Committee,16
+Agriculture Committee,Intelligence (Permanent Select) Committee,8
+Agriculture Committee,Judiciary Committee,28
+Agriculture Committee,Rules Committee,4
+Armed Services Committee,Judiciary Committee,45
+Armed Services Committee,Rules Committee,10
+Education and the Workforce Committee,Rules Committee,6
+Financial Services Committee,Rules Committee,11
+Intelligence (Permanent Select) Committee,Judiciary Committee,24
+Intelligence (Permanent Select) Committee,Rules Committee,4
+Judiciary Committee,Natural Resources Committee,41
+Judiciary Committee,Rules Committee,25
+Judiciary Committee,"Science, Space, and Technology Committee",20
+Natural Resources Committee,Rules Committee,4
+Rules Committee,"Science, Space, and Technology Committee",3
+Rules Committee,Transportation and Infrastructure Committee,6
+Rules Committee,Ways and Means Committee,19
+Agriculture Committee,"Banking, Housing, and Urban Affairs Committee",3
+"Banking, Housing, and Urban Affairs Committee",Financial Services Committee,40
+Budget Committee,Judiciary Committee,31
+Homeland Security Committee,Judiciary Committee,56
+Homeland Security Committee,Ways and Means Committee,31
+Budget Committee,Committee on House Administration,14
+Budget Committee,Financial Services Committee,19
+Education and the Workforce Committee,"Health, Education, Labor, and Pensions Committee",14
+Committee on House Administration,Rules Committee,10
+Budget Committee,Homeland Security and Governmental Affairs Committee,8
+Budget Committee,Transportation and Infrastructure Committee,15
+Homeland Security and Governmental Affairs Committee,Transportation and Infrastructure Committee,13
+Agriculture Committee,Committee on House Administration,4
+Committee on House Administration,Education and the Workforce Committee,30
+Committee on House Administration,Energy and Commerce Committee,10
+Committee on House Administration,Ways and Means Committee,19
+,Ways and Means Committee,13
+Veterans,Ways and Means Committee,18
+Judiciary Committee,Small Business Committee,10
+Homeland Security Committee,Homeland Security and Governmental Affairs Committee,37
+Energy and Natural Resources Committee,Natural Resources Committee,33
+,Homeland Security Committee,3
+,Judiciary Committee,7
+Armed Services Committee,Homeland Security Committee,20
+Homeland Security Committee,Veterans,6
+Judiciary Committee,Veterans,25
+Budget Committee,Energy and Commerce Committee,23
+Budget Committee,Foreign Affairs Committee,6
+,Education and the Workforce Committee,8
+,Oversight and Accountability Committee,11
+Education and the Workforce Committee,Veterans,13
+Oversight and Accountability Committee,Veterans,16
+Agriculture Committee,"Agriculture, Nutrition, and Forestry Committee",5
+Committee on House Administration,Judiciary Committee,40
+Judiciary Committee,Judiciary Committee,44
+Small Business Committee,Ways and Means Committee,9
+Finance Committee,Transportation and Infrastructure Committee,2
+Education and the Workforce Committee,Homeland Security and Governmental Affairs Committee,2
+"Commerce, Science, and Transportation Committee","Science, Space, and Technology Committee",8
+Energy and Commerce Committee,Finance Committee,5
+Finance Committee,Ways and Means Committee,5
+Agriculture Committee,Homeland Security Committee,6
+Education and the Workforce Committee,Homeland Security Committee,12
+Energy and Commerce Committee,Homeland Security Committee,25
+Financial Services Committee,Homeland Security Committee,13
+Foreign Affairs Committee,Homeland Security Committee,25
+Homeland Security Committee,Oversight and Accountability Committee,17
+Homeland Security Committee,Transportation and Infrastructure Committee,22
+,Transportation and Infrastructure Committee,7
+Transportation and Infrastructure Committee,Veterans,11
+"Banking, Housing, and Urban Affairs Committee",Budget Committee,4
+Financial Services Committee,Foreign Relations Committee,9
+"Health, Education, Labor, and Pensions Committee","Science, Space, and Technology Committee",8
+Committee on House Administration,"Science, Space, and Technology Committee",8
+Appropriations Committee,Armed Services Committee,2
+"Banking, Housing, and Urban Affairs Committee",Committee on House Administration,4
+Foreign Relations Committee,Judiciary Committee,11
+Homeland Security Committee,"Science, Space, and Technology Committee",6
+Affairs Committee,Armed Services Committee,1
+Homeland Security Committee,Small Business Committee,2
+Budget Committee,Ethics Committee,1
+Committee on House Administration,Ethics Committee,4
+Ethics Committee,Financial Services Committee,3
+Ethics Committee,Judiciary Committee,5
+Ethics Committee,Oversight and Accountability Committee,3
+Ethics Committee,Rules Committee,4
+Homeland Security Committee,Intelligence (Permanent Select) Committee,11
+Agriculture Committee,Small Business Committee,6
+Education and the Workforce Committee,Small Business Committee,8
+Energy and Commerce Committee,Small Business Committee,7
+Financial Services Committee,Small Business Committee,7
+Homeland Security Committee,Natural Resources Committee,8
+Natural Resources Committee,Small Business Committee,8
+Small Business Committee,Transportation and Infrastructure Committee,6
+Armed Services Committee,Committee on House Administration,6
+Armed Services Committee,Ethics Committee,2
+Committee on House Administration,Homeland Security Committee,5
+Committee on House Administration,Intelligence (Permanent Select) Committee,5
+Education and the Workforce Committee,Ethics Committee,2
+Ethics Committee,Homeland Security Committee,2
+Ethics Committee,Intelligence (Permanent Select) Committee,2
+Ethics Committee,"Science, Space, and Technology Committee",2
+Ethics Committee,Ways and Means Committee,2
+Budget Committee,Foreign Relations Committee,2
+Budget Committee,Small Business Committee,2
+Oversight and Accountability Committee,Small Business Committee,6
+Rules Committee,Small Business Committee,1
+"Commerce, Science, and Transportation Committee",Foreign Affairs Committee,1
+"Commerce, Science, and Transportation Committee",Natural Resources Committee,2
+Appropriations Committee,Foreign Affairs Committee,3
+"Health, Education, Labor, and Pensions Committee",Ways and Means Committee,2
+Environment and Public Works Committee,"Science, Space, and Technology Committee",1
+Financial Services Committee,Veterans,8
+Foreign Affairs Committee,Veterans,5
+Natural Resources Committee,Veterans,10
+Appropriations Committee,Financial Services Committee,3
+Appropriations Committee,Homeland Security Committee,1
+Appropriations Committee,Judiciary Committee,2
+Committee on House Administration,Homeland Security and Governmental Affairs Committee,1
+"Health, Education, Labor, and Pensions Committee",Judiciary Committee,5
+Financial Services Committee,"Health, Education, Labor, and Pensions Committee",1
+Energy and Natural Resources Committee,"Science, Space, and Technology Committee",3
+Energy and Commerce Committee,Energy and Natural Resources Committee,4
+Foreign Relations Committee,Ways and Means Committee,4
+,Natural Resources Committee,4
+Budget Committee,Veterans,4
+Education and the Workforce Committee,Foreign Relations Committee,1
+Foreign Relations Committee,Oversight and Accountability Committee,1
+,Energy and Commerce Committee,8
+Energy and Commerce Committee,Veterans,15
+Environment and Public Works Committee,Natural Resources Committee,3
+Committee on House Administration,Natural Resources Committee,4
+Armed Services Committee,Energy and Natural Resources Committee,1
+"Science, Space, and Technology Committee",Small Business Committee,4
+Armed Services Committee,Foreign Relations Committee,1
+Foreign Relations Committee,Intelligence (Permanent Select) Committee,2
+,Budget Committee,2
+Affairs Committee,Budget Committee,1
+"Banking, Housing, and Urban Affairs Committee",Transportation and Infrastructure Committee,1
+Energy and Natural Resources Committee,Judiciary Committee,1
+Committee on House Administration,"Health, Education, Labor, and Pensions Committee",1
+"Health, Education, Labor, and Pensions Committee",Oversight and Accountability Committee,1
+Agriculture Committee,Energy and Natural Resources Committee,2
+Agriculture Committee,Budget Committee,8
+Armed Services Committee,Budget Committee,5
+Budget Committee,Education and the Workforce Committee,10
+Budget Committee,Homeland Security Committee,3
+Budget Committee,Intelligence (Permanent Select) Committee,3
+,Agriculture Committee,4
+,Financial Services Committee,3
+Agriculture Committee,Veterans,6
+Environment and Public Works Committee,Financial Services Committee,2
+Appropriations Committee,Energy and Commerce Committee,2
+Budget Committee,"Science, Space, and Technology Committee",3
+"Banking, Housing, and Urban Affairs Committee",Education and the Workforce Committee,2
+"Banking, Housing, and Urban Affairs Committee",Ways and Means Committee,1
+Financial Services Committee,Homeland Security and Governmental Affairs Committee,3
+Homeland Security and Governmental Affairs Committee,Small Business Committee,2
+Homeland Security and Governmental Affairs Committee,Judiciary Committee,2
+Energy and Commerce Committee,Indian Affairs Committee,2
+Appropriations Committee,Appropriations Committee,2
+Committee on House Administration,Foreign Affairs Committee,6
+Homeland Security and Governmental Affairs Committee,Ways and Means Committee,1
+Budget Committee,Small Business and Entrepreneurship Committee,1
+Committee on House Administration,Energy and Natural Resources Committee,1
+"Health, Education, Labor, and Pensions Committee",Transportation and Infrastructure Committee,1
+Homeland Security and Governmental Affairs Committee,"Science, Space, and Technology Committee",1
+Budget Committee,Environment and Public Works Committee,1
+Education and the Workforce Committee,Finance Committee,2
+Finance Committee,Financial Services Committee,1
+"Science, Space, and Technology Committee",Veterans,3
+Budget Committee,"Health, Education, Labor, and Pensions Committee",1
+Foreign Affairs Committee,Homeland Security and Governmental Affairs Committee,1
+Homeland Security and Governmental Affairs Committee,Intelligence (Permanent Select) Committee,1
+Energy and Commerce Committee,Homeland Security and Governmental Affairs Committee,1
+Appropriations Committee,Rules Committee,1
+,"Science, Space, and Technology Committee",2
+"Banking, Housing, and Urban Affairs Committee",Judiciary Committee,2
+"Commerce, Science, and Transportation Committee",Oversight and Accountability Committee,1
+Appropriations Committee,Oversight and Accountability Committee,2
+"Banking, Housing, and Urban Affairs Committee",Small Business Committee,1
+Committee on House Administration,Veterans,1
+Energy and Commerce Committee,Environment and Public Works Committee,1
+Agriculture Committee,Finance Committee,1
+Finance Committee,Judiciary Committee,1
+Finance Committee,Natural Resources Committee,1
+Finance Committee,Oversight and Accountability Committee,1
+Finance Committee,Small Business Committee,1
+"Commerce, Science, and Transportation Committee",Homeland Security and Governmental Affairs Committee,1
+Appropriations Committee,Small Business Committee,1
+Budget Committee,"Commerce, Science, and Transportation Committee",1
+"Commerce, Science, and Transportation Committee",Judiciary Committee,1
+,Foreign Affairs Committee,2
+,Rules Committee,1
+Rules Committee,Veterans,2
+"Banking, Housing, and Urban Affairs Committee",Finance Committee,15
+"Banking, Housing, and Urban Affairs Committee",Energy and Natural Resources Committee,3
+"Banking, Housing, and Urban Affairs Committee",Homeland Security and Governmental Affairs Committee,3
+"Banking, Housing, and Urban Affairs Committee","Health, Education, Labor, and Pensions Committee",5
+"Banking, Housing, and Urban Affairs Committee","Commerce, Science, and Transportation Committee",3
+"Agriculture, Nutrition, and Forestry Committee","Banking, Housing, and Urban Affairs Committee",1
+"Banking, Housing, and Urban Affairs Committee",Foreign Relations Committee,2
+"Banking, Housing, and Urban Affairs Committee",Small Business and Entrepreneurship Committee,1
+"Health, Education, Labor, and Pensions Committee",Small Business and Entrepreneurship Committee,1
+Finance Committee,"Health, Education, Labor, and Pensions Committee",1
+"Health, Education, Labor, and Pensions Committee",Rules and Administration Committee,1
+"Banking, Housing, and Urban Affairs Committee",Rules and Administration Committee,1
+Budget Committee,Rules and Administration Committee,1
+Environment and Public Works Committee,Rules and Administration Committee,1
+Rules and Administration Committee,Small Business and Entrepreneurship Committee,1
+Homeland Security and Governmental Affairs Committee,Rules and Administration Committee,1
+Foreign Relations Committee,Rules and Administration Committee,1
+Indian Affairs Committee,Rules and Administration Committee,1
+"Commerce, Science, and Transportation Committee",Rules and Administration Committee,1
+Rules and Administration Committee,Veterans,1
+Armed Services Committee,Rules and Administration Committee,1
+Intelligence (Select) Committee,Rules and Administration Committee,1
+Finance Committee,Rules and Administration Committee,1
+Judiciary Committee,Rules and Administration Committee,1
+"Agriculture, Nutrition, and Forestry Committee",Rules and Administration Committee,1
+Energy and Natural Resources Committee,Rules and Administration Committee,1
+Aging (Special) Committee,Rules and Administration Committee,1
