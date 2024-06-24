@@ -7,7 +7,6 @@ Energy and Commerce Committee,Foreign Relations Committee,1
 Budget Committee,Committee on House Administration,12
 Budget Committee,Oversight and Accountability Committee,32
 Committee on House Administration,Oversight and Accountability Committee,84
-Judiciary Committee,Judiciary Committee,48
 Armed Services Committee,Natural Resources Committee,22
 Armed Services Committee,Energy and Commerce Committee,28
 ,Veterans,80
@@ -23,7 +22,6 @@ Appropriations Committee,Committee on House Administration,31
 Homeland Security Committee,Judiciary Committee,37
 Armed Services Committee,Veterans,33
 Financial Services Committee,Ways and Means Committee,54
-Budget Committee,Budget Committee,7
 Foreign Affairs Committee,Rules Committee,10
 Foreign Affairs Committee,Judiciary Committee,57
 Energy and Commerce Committee,Foreign Affairs Committee,38
@@ -60,9 +58,7 @@ Energy and Commerce Committee,Natural Resources Committee,102
 Judiciary Committee,Natural Resources Committee,67
 Judiciary Committee,"Science, Space, and Technology Committee",20
 Natural Resources Committee,"Science, Space, and Technology Committee",35
-Appropriations Committee,Appropriations Committee,8
 Armed Services Committee,Oversight and Accountability Committee,33
-Veterans,Veterans,4
 Foreign Affairs Committee,Oversight and Accountability Committee,28
 Judiciary Committee,Rules Committee,46
 Agriculture Committee,Financial Services Committee,35
@@ -200,7 +196,6 @@ Foreign Affairs Committee,Small Business Committee,4
 Natural Resources Committee,Small Business Committee,4
 Homeland Security and Governmental Affairs Committee,Small Business Committee,1
 Indian Affairs Committee,Natural Resources Committee,9
-Armed Services Committee,Armed Services Committee,6
 Agriculture Committee,Budget Committee,14
 Budget Committee,Education and the Workforce Committee,17
 Budget Committee,Foreign Affairs Committee,6

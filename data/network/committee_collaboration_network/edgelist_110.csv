@@ -1,6 +1,5 @@
 source,target,weight
 Foreign Affairs Committee,Foreign Relations Committee,63
-Armed Services Committee,Armed Services Committee,21
 Energy and Commerce Committee,Foreign Affairs Committee,44
 Financial Services Committee,Foreign Affairs Committee,43
 Financial Services Committee,Ways and Means Committee,49
@@ -13,7 +12,6 @@ Energy and Commerce Committee,"Health, Education, Labor, and Pensions Committee"
 Judiciary Committee,Oversight and Accountability Committee,79
 Energy and Commerce Committee,Environment and Public Works Committee,5
 Foreign Affairs Committee,Transportation and Infrastructure Committee,15
-Judiciary Committee,Judiciary Committee,86
 Energy and Natural Resources Committee,Oversight and Accountability Committee,1
 Armed Services Committee,Foreign Affairs Committee,92
 "Health, Education, Labor, and Pensions Committee",Oversight and Accountability Committee,10
@@ -27,7 +25,6 @@ Committee on House Administration,Transportation and Infrastructure Committee,13
 "Commerce, Science, and Transportation Committee",Oversight and Accountability Committee,3
 Education and the Workforce Committee,Judiciary Committee,89
 ,Veterans,83
-Veterans,Veterans,2
 "Commerce, Science, and Transportation Committee",Natural Resources Committee,12
 Natural Resources Committee,"Science, Space, and Technology Committee",59
 ,Affairs Committee,51

@@ -36,7 +36,6 @@ Rules Committee,Ways and Means Committee,32
 Homeland Security Committee,Judiciary Committee,85
 Foreign Affairs Committee,Rules Committee,19
 Armed Services Committee,Veterans,47
-Judiciary Committee,Judiciary Committee,50
 Armed Services Committee,Transportation and Infrastructure Committee,26
 ,Affairs Committee,42
 ,Veterans,151
@@ -188,7 +187,6 @@ Education and the Workforce Committee,Rules Committee,11
 Energy and Commerce Committee,Rules Committee,21
 Natural Resources Committee,Rules Committee,8
 Natural Resources Committee,Veterans,11
-Appropriations Committee,Appropriations Committee,7
 Budget Committee,"Science, Space, and Technology Committee",8
 Rules Committee,"Science, Space, and Technology Committee",2
 Armed Services Committee,Intelligence (Permanent Select) Committee,25
@@ -216,7 +214,6 @@ Appropriations Committee,Foreign Affairs Committee,6
 Appropriations Committee,Foreign Relations Committee,1
 Appropriations Committee,"Health, Education, Labor, and Pensions Committee",1
 Appropriations Committee,Transportation and Infrastructure Committee,4
-Budget Committee,Budget Committee,2
 Budget Committee,"Commerce, Science, and Transportation Committee",3
 Budget Committee,Environment and Public Works Committee,2
 Budget Committee,Finance Committee,2
@@ -364,7 +361,6 @@ Energy and Commerce Committee,Homeland Security and Governmental Affairs Committ
 Energy and Natural Resources Committee,Indian Affairs Committee,1
 "Banking, Housing, and Urban Affairs Committee","Commerce, Science, and Transportation Committee",1
 Agriculture Committee,Homeland Security and Governmental Affairs Committee,1
-Armed Services Committee,Armed Services Committee,2
 Finance Committee,Homeland Security and Governmental Affairs Committee,1
 ,"Commerce, Science, and Transportation Committee",1
 "Commerce, Science, and Transportation Committee",Veterans,1

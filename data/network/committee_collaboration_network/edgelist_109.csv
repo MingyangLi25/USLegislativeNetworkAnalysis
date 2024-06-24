@@ -5,7 +5,6 @@ Foreign Affairs Committee,Ways and Means Committee,29
 Energy and Commerce Committee,"Health, Education, Labor, and Pensions Committee",21
 Education and the Workforce Committee,Foreign Affairs Committee,11
 Judiciary Committee,Oversight and Accountability Committee,48
-Judiciary Committee,Judiciary Committee,51
 Agriculture Committee,Education and the Workforce Committee,20
 Agriculture Committee,Energy and Commerce Committee,31
 Agriculture Committee,Finance Committee,1
@@ -26,7 +25,6 @@ Financial Services Committee,Foreign Affairs Committee,45
 Financial Services Committee,Oversight and Accountability Committee,19
 Foreign Affairs Committee,Oversight and Accountability Committee,15
 Armed Services Committee,Foreign Affairs Committee,43
-Armed Services Committee,Armed Services Committee,10
 Natural Resources Committee,"Science, Space, and Technology Committee",34
 "Health, Education, Labor, and Pensions Committee",Oversight and Accountability Committee,3
 "Commerce, Science, and Transportation Committee",Transportation and Infrastructure Committee,6
@@ -195,7 +193,6 @@ Committee on House Administration,Natural Resources Committee,4
 Agriculture Committee,Small Business Committee,1
 Natural Resources Committee,Small Business Committee,2
 "Banking, Housing, and Urban Affairs Committee",Transportation and Infrastructure Committee,1
-Veterans,Veterans,2
 Environment and Public Works Committee,"Science, Space, and Technology Committee",1
 Agriculture Committee,Foreign Affairs Committee,7
 Small Business Committee,Transportation and Infrastructure Committee,2

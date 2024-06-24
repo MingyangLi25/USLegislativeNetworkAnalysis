@@ -2,7 +2,6 @@ source,target,weight
 Energy and Commerce Committee,Judiciary Committee,104
 Foreign Affairs Committee,Foreign Relations Committee,30
 Committee on House Administration,Oversight and Accountability Committee,25
-Judiciary Committee,Judiciary Committee,16
 Energy and Commerce Committee,Natural Resources Committee,47
 Energy and Commerce Committee,Transportation and Infrastructure Committee,42
 Natural Resources Committee,Transportation and Infrastructure Committee,30
@@ -259,7 +258,6 @@ Foreign Relations Committee,Ways and Means Committee,1
 Budget Committee,Environment and Public Works Committee,1
 Environment and Public Works Committee,Financial Services Committee,1
 Appropriations Committee,Oversight and Accountability Committee,1
-Budget Committee,Budget Committee,1
 Ethics Committee,Rules Committee,1
 Agriculture Committee,Committee on House Administration,1
 ,Agriculture Committee,1

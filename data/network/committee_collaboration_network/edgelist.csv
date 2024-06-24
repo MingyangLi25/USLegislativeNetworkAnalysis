@@ -5,7 +5,6 @@ Foreign Affairs Committee,Foreign Relations Committee,459
 "Commerce, Science, and Transportation Committee",Transportation and Infrastructure Committee,113
 Education and the Workforce Committee,Judiciary Committee,1156
 Armed Services Committee,Foreign Affairs Committee,654
-Armed Services Committee,Armed Services Committee,64
 Judiciary Committee,Oversight and Accountability Committee,994
 Agriculture Committee,"Agriculture, Nutrition, and Forestry Committee",65
 "Commerce, Science, and Transportation Committee","Science, Space, and Technology Committee",124
@@ -17,7 +16,6 @@ Education and the Workforce Committee,"Health, Education, Labor, and Pensions Co
 Rules and Administration Committee,Transportation and Infrastructure Committee,15
 "Health, Education, Labor, and Pensions Committee",Oversight and Accountability Committee,25
 Armed Services Committee,Financial Services Committee,129
-Judiciary Committee,Judiciary Committee,530
 Energy and Commerce Committee,"Health, Education, Labor, and Pensions Committee",284
 "Science, Space, and Technology Committee",Small Business Committee,65
 Education and the Workforce Committee,Energy and Commerce Committee,1499
@@ -128,7 +126,6 @@ Budget Committee,Rules Committee,408
 Intelligence (Permanent Select) Committee,Intelligence (Select) Committee,15
 "Commerce, Science, and Transportation Committee",Natural Resources Committee,60
 Financial Services Committee,Judiciary Committee,779
-Veterans,Veterans,19
 Energy and Commerce Committee,Environment and Public Works Committee,43
 Committee on House Administration,Ways and Means Committee,321
 Committee on House Administration,Energy and Commerce Committee,228
@@ -356,9 +353,7 @@ Ethics Committee,Homeland Security and Governmental Affairs Committee,1
 "Health, Education, Labor, and Pensions Committee",Homeland Security Committee,6
 Budget Committee,"Commerce, Science, and Transportation Committee",6
 Appropriations Committee,Small Business Committee,12
-Appropriations Committee,Appropriations Committee,61
 Budget Committee,Finance Committee,8
-Budget Committee,Budget Committee,18
 ,Committee on House Administration,13
 Budget Committee,Committee on House Administration,86
 Finance Committee,Oversight and Accountability Committee,5
@@ -449,7 +444,6 @@ Aging (Special) Committee,Finance Committee,1
 Energy and Natural Resources Committee,Veterans,5
 "Banking, Housing, and Urban Affairs Committee",Small Business Committee,4
 Appropriations Committee,Intelligence (Permanent Select) Committee,4
-,,2
 Education and the Workforce Committee,Foreign Relations Committee,5
 Budget Committee,Small Business and Entrepreneurship Committee,3
 Rules Committee,Small Business and Entrepreneurship Committee,1

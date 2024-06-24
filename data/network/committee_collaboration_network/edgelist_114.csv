@@ -94,7 +94,6 @@ Homeland Security Committee,Ways and Means Committee,22
 Budget Committee,Rules Committee,38
 Appropriations Committee,Foreign Affairs Committee,5
 Homeland Security Committee,Homeland Security and Governmental Affairs Committee,58
-Judiciary Committee,Judiciary Committee,45
 Finance Committee,Homeland Security Committee,1
 Finance Committee,Judiciary Committee,6
 Armed Services Committee,Foreign Relations Committee,2
@@ -120,7 +119,6 @@ Transportation and Infrastructure Committee,Ways and Means Committee,45
 Appropriations Committee,Oversight and Accountability Committee,13
 Agriculture Committee,Natural Resources Committee,68
 Financial Services Committee,Rules Committee,9
-Veterans,Veterans,4
 "Science, Space, and Technology Committee",Transportation and Infrastructure Committee,31
 Education and the Workforce Committee,Natural Resources Committee,25
 Financial Services Committee,Natural Resources Committee,7
@@ -143,7 +141,6 @@ Armed Services Committee,Small Business Committee,5
 Oversight and Accountability Committee,"Science, Space, and Technology Committee",13
 "Science, Space, and Technology Committee",Small Business Committee,3
 Energy and Natural Resources Committee,"Science, Space, and Technology Committee",8
-Appropriations Committee,Appropriations Committee,12
 "Science, Space, and Technology Committee",Veterans,6
 Agriculture Committee,"Science, Space, and Technology Committee",8
 Agriculture Committee,Transportation and Infrastructure Committee,25
@@ -163,7 +160,6 @@ Agriculture Committee,Armed Services Committee,8
 Education and the Workforce Committee,"Science, Space, and Technology Committee",22
 Energy and Commerce Committee,Veterans,15
 Veterans,Ways and Means Committee,18
-Budget Committee,Budget Committee,1
 Intelligence (Permanent Select) Committee,Intelligence (Select) Committee,3
 Energy and Commerce Committee,Homeland Security Committee,17
 Energy and Commerce Committee,Homeland Security and Governmental Affairs Committee,4
@@ -218,7 +214,6 @@ Homeland Security and Governmental Affairs Committee,Ways and Means Committee,2
 Environment and Public Works Committee,"Science, Space, and Technology Committee",2
 "Banking, Housing, and Urban Affairs Committee",Oversight and Accountability Committee,2
 ,Budget Committee,5
-Armed Services Committee,Armed Services Committee,4
 "Commerce, Science, and Transportation Committee",Natural Resources Committee,7
 Armed Services Committee,Financial Services Committee,8
 Education and the Workforce Committee,Intelligence (Permanent Select) Committee,2

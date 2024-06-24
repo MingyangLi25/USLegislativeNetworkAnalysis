@@ -3,7 +3,6 @@ Financial Services Committee,Ways and Means Committee,90
 Appropriations Committee,Committee on House Administration,10
 Foreign Affairs Committee,Foreign Relations Committee,53
 Education and the Workforce Committee,Judiciary Committee,135
-Armed Services Committee,Armed Services Committee,3
 Agriculture Committee,Ways and Means Committee,47
 Budget Committee,Financial Services Committee,15
 Budget Committee,Judiciary Committee,23
@@ -42,7 +41,6 @@ Judiciary Committee,Oversight and Accountability Committee,120
 Judiciary Committee,Transportation and Infrastructure Committee,37
 Oversight and Accountability Committee,Transportation and Infrastructure Committee,28
 Judiciary Committee,Natural Resources Committee,47
-Judiciary Committee,Judiciary Committee,73
 Appropriations Committee,Budget Committee,25
 Appropriations Committee,Ways and Means Committee,14
 Budget Committee,Ways and Means Committee,34
@@ -174,7 +172,6 @@ Homeland Security Committee,Small Business Committee,3
 Judiciary Committee,Small Business Committee,11
 Small Business Committee,Transportation and Infrastructure Committee,10
 Armed Services Committee,Committee on House Administration,5
-Appropriations Committee,Appropriations Committee,10
 Committee on House Administration,Natural Resources Committee,13
 Appropriations Committee,Energy and Commerce Committee,13
 Agriculture Committee,"Agriculture, Nutrition, and Forestry Committee",11
@@ -225,7 +222,6 @@ Homeland Security Committee,Natural Resources Committee,7
 Oversight and Accountability Committee,Veterans,15
 Energy and Commerce Committee,Intelligence (Permanent Select) Committee,6
 Environment and Public Works Committee,Natural Resources Committee,12
-Veterans,Veterans,5
 Appropriations Committee,"Science, Space, and Technology Committee",2
 Appropriations Committee,Small Business Committee,2
 Natural Resources Committee,Small Business Committee,2
@@ -276,7 +272,6 @@ Environment and Public Works Committee,Homeland Security and Governmental Affair
 Budget Committee,"Health, Education, Labor, and Pensions Committee",2
 Rules Committee,Veterans,3
 Education and the Workforce Committee,Finance Committee,1
-,,1
 ,Agriculture Committee,2
 ,Natural Resources Committee,4
 Homeland Security Committee,Rules Committee,1
